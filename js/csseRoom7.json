@@ -1,0 +1,105 @@
+{
+    "csse": [
+        {
+            "time": "1:00 PM - 1:15 PM",
+            "projectId": "csse-7-100",
+            "title": "Exploring the Desirability, Feasibility, and Viability of an Integrity-Scoring Web Application for Elected Officials",
+            "studentName": "Joshua Hancock",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project - Student Defined",
+            "facultyAdvisor": "Dr. David Socha",
+            "posterLink": "posters/csse/hancockjoshuad_LATE_4230597_108574453_POSTERv3_JDHancock.png",
+            "abstract": "This capstone work aimed to conduct an extensive discovery study on the conceptualization and validation of a web application for the Human-Centered Design (HCD)phase. The primary purpose of this application is to centralize and streamline information about elected officials, offer easily comparable profiles, and integrate an integrity scoring mechanism for each official. I used a methodology that involved three distinct studies: \n\n● Desirability: I conducted 1-hour discovery interviews with 8 voters and 3 investigators and performed a thorough competitor analysis.\n\n● Feasibility: I directed my research towards Natural Language Processing (NLP) studies on Hugging Face and identified specific models and classification tasks. I also studied the hardware prerequisites, cloud hosting costs, and sourced relevant data. I also discovered the GDELT Project which has significant overlap with my project in regards to NLP and data acquisition, while also providing lengthy documentation regarding how they do it. Finally, I formulated initial metrics to measure integrity. \n\n● Viability: I reviewed business structures, focusing on revenue models such as data monetization, subscription, freemium, crowdfunding/donations, and advertisements. I also conducted in-depth market research to support this phase. \n\nI initiated this project due to the scattered data about elected officials, particularly at the local level. My primary goal is to consolidate this fragmented information into a single platform, enabling the public to make more informed decisions when selecting trustworthy leaders. \n\nMy initial findings indicate a strong desire for such a platform among all users I interviewed, especially voters who favor comparative profiles and ratings. Journalists also have a strong desire for a comprehensive database that details the actions, quotes, and affiliations of elected officials, aligning well with the data needed to assess integrity. I have validated the feasibility in terms of the required software tools and prior examples, but I have yet to execute a proof of concept. In terms of viability, the market potential is clear, but I still need to explore revenue model determinants further. \n\nThese discovery studies set the foundation for a proof of concept and prototyping, which once conducted, will further inform my decision to launch a startup focused on developing this application. My research not only addresses a significant informational gap but also aims to enhance democratic processes by equipping citizens with more powerful data tools."
+        },
+        {
+            "time": "1:15 PM - 1:30 PM",
+            "projectId": "csse-7-115",
+            "title": "iBioML Website ",
+            "studentName": "Bosit Anvarov",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored internship or job opportunity",
+            "facultyAdvisor": "Dr. Wooyoung Kim",
+            "posterLink": "posters/csse/anvarovbosit_4170754_108487860_Poster.jpg",
+            "abstract": "Imagine a world where scientists working with biological data and machine learning engineers who create smart algorithms come together seamlessly. This is what the capstone project, iBioML, is all about. The website that acts as a bridge between domain experts and machine learning engineers. \n\nThe iBioML website helps scientists share their ongoing projects and the data they're working with. They submit a project that needs help from software/machine learning engineers, like designing algorithms or visualizing data. On the other side, developers who know data analysis, data visualization and machine learning can see these posts and request to join the if there is available space. One of the important things iBioML offers is the integration of Zoom, so that scientists and developers can easily set up video meetings for discussing their projects. \n\nWhen scientists share their projects using the \"Gene-Chat\" feature, they can also bring in collaborators to a project management tool of their choice, like Slack, Microsoft Teams, Google Workspace, and more. This approach ensures everyone is well-informed about the team's progress, while also providing a convenient way to access shared files and discussions among members. \n\nIn conclusion, iBioML is far more than a website – it's a medium that bridges biology and technology to forge something truly remarkable. This abstract offers a glimpse into our accomplishments: uniting the worlds of science and machine learning, facilitating seamless meetings, and setting up a platform that's ready to spark more exciting progress in the future."
+        },
+        {
+            "time": "1:30 PM - 1:45 PM",
+            "projectId": "csse-7-130",
+            "title": "LightBox",
+            "studentName": "Dongin Cho",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty Research",
+            "facultyAdvisor": "Dr. Wooyoung Kim ",
+            "posterLink": "posters/csse/parkchanhee_4171694_108494758_LightBox Capstone Poster.png",
+            "abstract": "Advancements in machine learning (ML) applied to bioinformatics offer promising avenues for data analysis and insights into biotechnology. However, challenges in the interpretability of ML models hinder their broad adoption and effective collaboration between domain experts and ML practitioners. This research presents the development of an Interpretable Machine Learning Platform, referred to as LightBox, addressing these challenges and enhancing bioinformatics research. \n\nLightBox establishes a channel to foster knowledge exchange between domain experts and ML practitioners by creating an accessible online platform, it cultivates a supportive environment for bioinformatics research and collaboration. \n\nThe project focuses on crafting a user-friendly web program allowing experts, including non-coders, to test and obtain machine-learning results. It develops an interpretable machine learning platform tailored for bioinformatics research, promoting the use of techniques addressing unique bioinformatics challenges. The platform is equipped with data analysis, visualization, and modeling tools, enabling users to gain insights from intricate biological data. \n\nLightBox successfully realized its objectives, culminating in the implementation of planned features. The platform accommodates four classifiers from the machine learning algorithm built by other researchers in the group. Users can effortlessly upload Excel files, customize targets and features, select classifiers, configure parameter values, and visualize results through metrics and decision tree feature importance tables. \n\nIn summary, LightBox bridges the gap between domain experts and ML practitioners, fostering collaboration and transparency within bioinformatics research. By providing accessible tools and interpretability, LightBox enhances the potential for insights from complex biological data and contributes significantly to the advancement of bioinformatics."
+        },
+        {
+            "time": "1:45 PM - 2:00 PM",
+            "projectId": "csse-7-145",
+            "title": "LightBox",
+            "studentName": "Chanhee Park",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty Research",
+            "facultyAdvisor": "Dr. Munehiro Fukuda",
+            "posterLink": "posters/csse/parkchanhee_4171694_108494758_LightBox Capstone Poster.png",
+            "abstract":"Advancements in machine learning (ML) applied to bioinformatics offer promising avenues for data analysis and insights into biotechnology. However, challenges in the interpretability of ML models hinder their broad adoption and effective collaboration between domain experts and ML practitioners. This research presents the development of an Interpretable Machine Learning Platform, referred to as LightBox, addressing these challenges and enhancing bioinformatics research. \n\nLightBox establishes a channel to foster knowledge exchange between domain experts and ML practitioners by creating an accessible online platform, it cultivates a supportive environment for bioinformatics research and collaboration. \n\nThe project focuses on crafting a user-friendly web program allowing experts, including non-coders, to test and obtain machine-learning results. It develops an interpretable machine learning platform tailored for bioinformatics research, promoting the use of techniques addressing unique bioinformatics challenges. The platform is equipped with data analysis, visualization, and modeling tools, enabling users to gain insights from intricate biological data. \n\nLightBox successfully realized its objectives, culminating in the implementation of planned features. The platform accommodates four classifiers from the machine learning algorithm built by other researchers in the group. Users can effortlessly upload Excel files, customize targets and features, select classifiers, configure parameter values, and visualize results through metrics and decision tree feature importance tables. \n\nIn summary, LightBox bridges the gap between domain experts and ML practitioners, fostering collaboration and transparency within bioinformatics research. By providing accessible tools and interpretability, LightBox enhances the potential for insights from complex biological data and contributes significantly to the advancement of bioinformatics."
+        },
+        {
+            "time": "2:00 PM - 2:15 PM",
+            "projectId": "csse-7-200",
+            "title": "Early Prediction of Depression in Individuals with Hypertension",
+            "studentName": "Sovannara Chou",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty Research",
+            "facultyAdvisor": "Dr. Wooyoung Kim",
+            "posterLink": "posters/csse/chousovannara_4145649_108493689_Poster-Sovannara Chou.jpg", 
+            "abstract":"In this research, I have collaborated closely with Professor Wooyoung Kim and Dr. Chiyoung Lee to explore datasets centered on depression in individuals with hypertension. The goal of this project aims to develop and compare the effectiveness of different machine learning models with two data balancing techniques to analyze the data. \n\nMy tasks involve following the ML processes to collect, organize, and clean the data, selecting the appropriate model, conducting training and testing, and finally interpreting the results. The project utilizes various types of machine-learning models, ranging from interpretability models to complex deep-learning models, implemented in Python. The models I employ include Logistic Regression, Support Vector Machine, and Multi-layer Perceptron neural network. Data imbalance is managed through over-sampling and random down-sampling, allowing for a comparison of performance between these two techniques. Model performance is assessed using accuracy rate and F1-score metrics. Additionally, I implement a confusion matrix to demonstrate how well the model predicts data, displaying True Positive, True Negative, False Positive, and False Negative outcomes. \n\nIn the analysis of the three models, the support vector machine achieves the best performance, attaining an accuracy of 92–94% with a 90% F1-score, in contrast to Dr. Lee’s previous research using random under-sampling, which yielded a top result of 77%. Both logistic regression and multi-layer perceptron models yielded results around 75–80%, along with corresponding F1 scores. The most favorable outcome was achieved using oversampling data balancing. For random under-sampling, the highest accuracy across all models was 77%, consistent with Dr. Lee's analysis. Overall, my observations and analysis lead to the conclusion that the support vector machine model with the oversampling data balancing technique, achieves the highest performance accuracy among the three models."
+        },
+        {
+            "time": "2:15 PM - 2:30 PM",
+            "projectId": "csse-7-215",
+            "title": "IT Intern at Lavner Education",
+            "studentName": "Shriya Bhaskara",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored internship or job opportunity",
+            "facultyAdvisor": "Dr. Munehiro Fukuda",
+            "posterLink": "posters/csse/bhaskarashriya_4014777_108472871_BhaskaraShriyaCSSECapstoneFinalPoster.jpg",
+            "abstract": "Lavner Education specializes in educating youth about IT related concepts. This summer I interned here teaching multiple students in CS related courses each week. Some of the courses included Scratch, Python, Web Design, Java, and Tech Startup. This internship was essential as I made an impact on a wide group of future generations, networked with many interns, used various languages and platforms, and strengthened my skills overall. \n\nI joined this internship because I could benefit not just others but myself as well. Along with educating and inspiring kids and teens, I would be able to use multiple languages and platforms which improves my knowledge and skills. I would have to assist in debugging various problems and providing solutions during project time. I was able to work with multiple interns around my age and experience level. I passed my knowledge onto kids and teens while improving my own skills. As I worked with various students and interns for multiple projects there were many problems that occurred. This ranged from debugging code, using unclear instructions from the lesson plan, working with kids with ADHD/other medical conditions, and other out of classroom issues like miscommunication from parents. \n\nAs there were diverse problems that I faced I used various methods to solve them. In terms of debugging code, if I was teaching with a partner, we took turns teaching while the other person walked around and started helping students debug to manage time well. If there were unclear instructions for an activity I would see if I could do another activity first and send a tech assist request to get more information before returning to the previous activity to ensure they were still learning all concepts. When working with people who learn differently, I experimented with a few different techniques like asking them questions and letting them be creative with the projects. To resolve miscommunication from parents I made sure to communicate with at least one other intern and my supervisor to ensure the situation was handled calmly. \n\nI improved and learned a lot from this internship. I taught multiple courses for diverse groups of students and worked with many interns whether it was for teaching a course or outside of the classroom. I could apply my programming and soft skills during my internship and strengthen them, which will help me in the future for interviews and even in a professional career setting. "
+        },
+        {
+            "time": "2:30 PM - 2:45 PM",
+            "projectId": "csse-7-245",
+            "title": "Cloud Engineering Internship at Optum",
+            "studentName": "Amogh Kapalli",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored internship or job opportunity",
+            "facultyAdvisor": "Dr. Munehiro Fukuda",
+            "posterLink": "posters/csse/kapalliamogh_4026914_108478707_Capstone Poster.jpg",
+            "abstract": "Cloud technology has formed the backbone of modern-day enterprises and has driven the revolution for businesses to innovate, scale and adapt rapidly. The demand for seamless, high performance applications is growing and cloud based solutions help support an organization's operations. Within this vast landscape, my internship experience working in the platform infrastructure at Optum has been a great opportunity to understand the specifics of these advanced cloud infrastructures. \n\nI had the opportunity to contribute to this team by working on several projects each with different end goals. With more clients (Healthcare providers) being brought onto a new product, engineers working on this software wanted to be able to have a single consolidated dashboard to view metrics for various Azure components, Security incidents, and Cost information which I leveraged using Terraform to deploy to the production infrastructure. I had the opportunity to demo this dashboard to various stakeholders and gain input for ways to be able to improve the dashboard capabilities. The other big project that I worked on during this period was to be able to successfully deploy Datahub onto Azure, an open source metadata management project to enable data observability and data governance. I was able to deploy this onto Azure and document the experience. Apart from this I worked on smaller user stories such as adding a terraform CLI configuration file to prevent supply chain attacks and control the providers of Terraform packages to be from a Optum specific Artifactory. \n\nOverall, this experience provided me with valuable insight into leveraging Terraform, Jenkins, various Azure Services, and Databricks. This helps me towards my future in the field of cloud and platform infrastructure, equipping me with the necessary skills and hands-on experience to contribute to the continued advancement of cloud technology."
+        },
+        {
+            "time": "2:45 PM - 3:00 PM",
+            "projectId": "csse-7-300",
+            "title": "Onboarding as a Software Engineer at Okta",
+            "studentName": "Paulo Nascimento",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored internship or job opportunity",
+            "facultyAdvisor": "Dr. Munehiro Fukuda",
+            "posterLink": "posters/csse/nascimentopaulo_4113751_108494714_Nascimento_497_Poster.png",
+            "abstract":"During my full-time work at Auth0, my capstone project primarily centered on my integration into the User Management team. This initial phase spanned 1-2 months, during which I immersed myself in Auth0's product landscape and the team dynamics. Developing applications like a social media platform and an HR management tool allowed me to gain hands-on experience with Auth0's authentication and Role-Based Access Control (RBAC) features. Moreover, I extensively explored the team's codebase, acquiring a deep understanding of its structure and functionality. \n\nThe core objective of these tasks was to ensure a seamless transition into my role within the User Management team. Guided by the team leaders, these activities formed an essential part of my onboarding process. My capstone work aimed to bridge the gap between knowledge gained from classes like CSS 430 (Operating Systems) to applying them hands on while navigating codebases that contained related concepts such as Docker and Kubernetes which. \n\nThe outcomes of my efforts have significantly contributed to my comprehensive understanding of Auth0's product offerings and operational processes. Consequently, I am now on track to being well-prepared to actively engage in the team's task execution, contributing to enhanced efficiency and productivity. Through reviewing pull requests from fellow team members and collaborating on an open-source project under our purview, my work holds the potential to impact millions of users, given Auth0's substantial user base. This comprehensive understanding gained during the process carries particular significance, considering the heightened responsibilities associated with contributing to a security product like Auth0. \n\nIn conclusion, my capstone work during my full-time engagement at Auth0 has provided a foundational framework for my role within the User Management team. The practical experience gained from application development and thorough codebase analysis has not only facilitated my integration but also positioned me to offer valuable contributions to the team's objectives, while upholding the high standard we have for security and development."
+        },
+        {
+            "time": "3:00 PM - 3:15 PM",
+            "projectId": "csse-7-230",
+            "title": "Project Title Coming Soon",
+            "studentName": "Guy Hayardeny",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored internship or job opportunity",
+            "facultyAdvisor": "Dr. Munehiro Fukuda",
+            "posterLink": ".posters/placeholder/comming_soon.jpg"
+        }
+        
+
+    ]
+}
+
