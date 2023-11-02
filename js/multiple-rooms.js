@@ -57,3 +57,16 @@ $(document).ready( function () {
         }, 1000);
     }
 });
+$(document).ready(function() {
+    $("#searchBar").on("input", function() {
+        const searchTerm = $(this).val().toLowerCase();
+        $(".sidenav-title").each(function() {
+            const searchContent = $(this).data("search").toLowerCase();
+            if (searchContent.includes(searchTerm)) {
+                $(this).show();
+            } else {
+                $(this).hide();
+            }
+        });
+    });
+});
