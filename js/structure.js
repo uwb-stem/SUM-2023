@@ -117,7 +117,7 @@ if (typeof document.getElementById("room-1-presentations") != "undefined") {
     loadCSSEPresentations("room-6-presentations", "js/csseRoom6.json");
     
     loadCSSEPresentations("room-7-presentations", "js/csseRoom7.json"); 
-    loadCSSEPresentations("room-8-presentations", "js/csseRoom8.json"); 
+  //  loadCSSEPresentations("room-8-presentations", "js/csseRoom8.json"); 
     
     loadTitleToSideNav("js/csseRoom1.json");
     loadTitleToSideNav("js/csseRoom2.json");
@@ -128,7 +128,7 @@ if (typeof document.getElementById("room-1-presentations") != "undefined") {
      loadTitleToSideNav("js/csseRoom5.json");
     loadTitleToSideNav("js/csseRoom6.json");
     loadTitleToSideNav("js/csseRoom7.json"); 
-    loadTitleToSideNav("js/csseRoom8.json"); 
+   // loadTitleToSideNav("js/csseRoom8.json"); 
 
 }
 
@@ -460,6 +460,8 @@ function loadTitleToSideNav(jsonfile) {
 
         presentationLi.appendChild(aTitle);
         ul.appendChild(presentationLi);
+        presentationLi.setAttribute("data-search", presentations[j].title + " " + studentName.textContent);
+
     }
 
     sideNav.appendChild(roomDiv);
