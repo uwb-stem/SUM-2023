@@ -13,7 +13,20 @@
       height: 50px;
       margin: 20px 0 50px 0;
 }
-
+.topnav {
+  overflow: hidden;
+  background-color:#C4C4C4;
+  width: 300px;
+  padding: 10px;
+  
+}
+.topnav input[type=text] {
+  float: center;
+  padding: 6px;
+  border: none;
+ 
+  font-size: 17px;
+}
 .zoom-room-buttons {
     font-family: 'OpenSans';
     display: flex;
